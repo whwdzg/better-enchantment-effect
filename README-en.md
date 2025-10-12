@@ -27,6 +27,9 @@ It's time to extent the enchantments effect and make them effect on more tools a
 
 # Q&A
 1. What does this mod do to my Minecraft?
+
    Better Enchantments change the enchantment books to have effects on more tools and armor.
+   
 2. Which enchantments are changed?
+
    You can check out the advancements in game(only support Chinese and English)
