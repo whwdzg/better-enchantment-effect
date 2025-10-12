@@ -35,7 +35,7 @@
          "announce_to_chat": false,
          "hidden": false,
          "show_toast": false,
-         "background": "minecraft:textures/block/bookshelf"
+         "background": "minecraft:block/bookshelf"
     },
     "requirements": [
         ["get_enchanted_book","get_enchanting_table"]
