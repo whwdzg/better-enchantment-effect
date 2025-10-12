@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "enchant_wolf_armor_in_enchanting_table": {
+            "trigger": "minecraft:enchanted_item",
+            "conditions": {
+                "item": {
+                    "items": "#better-enchantments:wolf_armor"
+                }
+            }
+        }
+    },
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_horse_armor"
+        },
+        "title": {
+            "translate": "附魔狼铠"
+        },
+        "description": {
+            "translate": "加强版汪汪队出动！"
+        },
+        "frame": "task",
+        "announce_to_chat": false,
+        "hidden": false,
+        "show_toast": true
+    },
+    "parent": "better-enchantments:horse_armor",
+    "requirements": [
+        [
+            "enchant_wolf_armor_in_enchanting_table"
+        ]
+    ],
+    "rewards": {
+        "experience": 10
+    }
+}

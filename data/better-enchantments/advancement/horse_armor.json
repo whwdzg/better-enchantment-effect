@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "enchant_horse_armor_in_enchanting_table": {
+            "trigger": "minecraft:enchanted_item",
+            "conditions": {
+                "item": {
+                    "items": "#better-enchantments:horse_armor"
+                }
+            }
+        }
+    },
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_horse_armor"
+        },
+        "title": {
+            "translate": "附魔马铠"
+        },
+        "description": {
+            "translate": "保护？耐久？在附魔台中附魔一件马铠。"
+        },
+        "frame": "task",
+        "announce_to_chat": false,
+        "hidden": false,
+        "show_toast": true
+    },
+    "parent": "better-enchantments:better-enchantments",
+    "requirements": [
+        [
+            "enchant_horse_armor_in_enchanting_table"
+        ]
+    ],
+    "rewards": {
+        "experience": 10
+    }
+}
