@@ -19,6 +19,16 @@
                     }
                 ]
             }
+        },
+        "get_anvil":{
+            "trigger":"minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:anvil"
+                    }
+                ]
+            }
         }
     },
     "display": {
@@ -38,7 +48,7 @@
          "background": "minecraft:block/bookshelf"
     },
     "requirements": [
-        ["get_enchanted_book","get_enchanting_table"]
+        ["get_enchanted_book","get_enchanting_table","get_anvil"]
     ],
     "rewards": {
         "experience": 10

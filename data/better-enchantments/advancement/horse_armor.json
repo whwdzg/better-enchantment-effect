@@ -7,6 +7,16 @@
                     "items": "#better-enchantments:horse_armor"
                 }
             }
+        },
+        "get_horse_armor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#better-enchantments:horse_armor"
+                    }
+                ]
+            }
         }
     },
     "display": {
@@ -17,7 +27,7 @@
             "translate": "附魔马铠"
         },
         "description": {
-            "translate": "保护？耐久？在附魔台中附魔一件马铠。"
+            "translate": "保护？耐久？在铁砧中为一件马铠附魔。"
         },
         "frame": "task",
         "announce_to_chat": false,
@@ -27,7 +37,7 @@
     "parent": "better-enchantments:better-enchantments",
     "requirements": [
         [
-            "enchant_horse_armor_in_enchanting_table"
+            "enchant_horse_armor_in_enchanting_table","get_horse_armor"
         ]
     ],
     "rewards": {

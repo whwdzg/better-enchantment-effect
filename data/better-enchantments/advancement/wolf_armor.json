@@ -7,6 +7,16 @@
                     "items": "#better-enchantments:wolf_armor"
                 }
             }
+        },
+        "get_wolf_armor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#better-enchantments:wolf_armor"
+                    }
+                ]
+            }
         }
     },
     "display": {
@@ -27,7 +37,7 @@
     "parent": "better-enchantments:horse_armor",
     "requirements": [
         [
-            "enchant_wolf_armor_in_enchanting_table"
+            "enchant_wolf_armor_in_enchanting_table","get_wolf_armor"
         ]
     ],
     "rewards": {
