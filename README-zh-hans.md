@@ -1,6 +1,6 @@
 <div align="center">
     <img align="center" src="https://raw.githubusercontent.com/whwdzg/better-enchantments/main/pack.png" alt="logo" width="200">
-    <h1 align="center"更好附魔（better-enchanntments）</h1>
+    <h1 align="center">更好附魔（better-enchanntments）</h1>
     <p align="enter">扩展原版附魔书适用范围与效果</p>
     <a href="https://github.com/whwdzg/better-enchantments/blob/main/README-en.md">English Ver.</a>
     </br>
