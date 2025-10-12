@@ -20,7 +20,7 @@ Minecraft中的附魔大多只能附在对应的工具和装备上，这就导�
 是时候扩展附魔书在不同装备和工具上的效果了
 
 # Modrinth
-[https://modrinth.com/datapack/better-enchantments](https://modrinth.com/datapack/better-enchantments)
+[https://modrinth.com/datapack/better-enchantment](https://modrinth.com/datapack/better-enchantment)
 
 # MCMOD
 [https://www.mcmod.cn/class/******.html](https://www.mcmod.cn/class/******/.html)

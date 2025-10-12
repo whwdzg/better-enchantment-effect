@@ -20,7 +20,7 @@ Most enchantments in Minecraft can only enchant on few tools or armor, which may
 It's time to extent the enchantments effect and make them effect on more tools and armor!
 
 # Modrinth
-[https://modrinth.com/datapack/better-enchantments](https://modrinth.com/datapack/better-enchantments)
+[https://modrinth.com/datapack/better-enchantment](https://modrinth.com/datapack/better-enchantment)
 
 # MCMOD
 [https://www.mcmod.cn/class/******.html](https://www.mcmod.cn/class/******/.html)
