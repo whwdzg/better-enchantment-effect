@@ -23,7 +23,7 @@ It's time to extent the enchantments effect and make them effect on more tools a
 [https://modrinth.com/datapack/better-enchantment](https://modrinth.com/datapack/better-enchantment)
 
 # MCMOD
-[https://www.mcmod.cn/class/******.html](https://www.mcmod.cn/class/******/.html)
+[https://www.mcmod.cn/class/22543.html](https://www.mcmod.cn/class/22543/.html)
 
 # Q&A
 1. What does this mod do to my Minecraft?

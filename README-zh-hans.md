@@ -23,7 +23,7 @@ Minecraft中的附魔大多只能附在对应的工具和装备上，这就导�
 [https://modrinth.com/datapack/better-enchantment](https://modrinth.com/datapack/better-enchantment)
 
 # MCMOD
-[https://www.mcmod.cn/class/******.html](https://www.mcmod.cn/class/******/.html)
+[https://www.mcmod.cn/class/22543.html](https://www.mcmod.cn/class/22543/.html)
 
 # Q&A
 1. 这个数据包/模组对我的MC有什么更改？
